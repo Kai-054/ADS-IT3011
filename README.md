@@ -1,1 +1,2 @@
-# ADS-IT3011
+# HI there is ADS-IT3011
+In this repository, I focus on studying Algorithms and Data Structures (ADS) to strengthen my problem-solving and programming skills in proces study i using language c++ to implement each section. The goal is to master core concepts such as linked lists, trees, graphs, recursion, dynamic programming, and complexity analysis, as well as to apply these skills in real-world software development and technical interviews.
